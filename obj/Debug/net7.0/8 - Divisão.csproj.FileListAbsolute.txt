@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\8 - Divisão\bin\Debug\net7.0\8 - Divisão.exe
+C:\Users\plaud\Desktop\8 - Divisão\bin\Debug\net7.0\8 - Divisão.deps.json
+C:\Users\plaud\Desktop\8 - Divisão\bin\Debug\net7.0\8 - Divisão.runtimeconfig.json
+C:\Users\plaud\Desktop\8 - Divisão\bin\Debug\net7.0\8 - Divisão.dll
+C:\Users\plaud\Desktop\8 - Divisão\bin\Debug\net7.0\8 - Divisão.pdb
+C:\Users\plaud\Desktop\8 - Divisão\obj\Debug\net7.0\8 - Divisão.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\8 - Divisão\obj\Debug\net7.0\8 - Divisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\8 - Divisão\obj\Debug\net7.0\8 - Divisão.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\8 - Divisão\obj\Debug\net7.0\8 - Divisão.AssemblyInfo.cs
+C:\Users\plaud\Desktop\8 - Divisão\obj\Debug\net7.0\8 - Divisão.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\8 - Divisão\obj\Debug\net7.0\8 - Divisão.dll
+C:\Users\plaud\Desktop\8 - Divisão\obj\Debug\net7.0\refint\8 - Divisão.dll
+C:\Users\plaud\Desktop\8 - Divisão\obj\Debug\net7.0\8 - Divisão.pdb
+C:\Users\plaud\Desktop\8 - Divisão\obj\Debug\net7.0\8 - Divisão.genruntimeconfig.cache
+C:\Users\plaud\Desktop\8 - Divisão\obj\Debug\net7.0\ref\8 - Divisão.dll
